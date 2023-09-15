@@ -1,0 +1,1 @@
+web: gunicorn proj_meu_primeiro_app.wsgi --log-file - 
